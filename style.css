@@ -40,9 +40,9 @@ span{
 .info{
     width: 60%;
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
-    margin-top: 20px;
+    max-width: 68.75rem;
+    margin: auto;
 }
 
 .box-infobig{
@@ -119,3 +119,25 @@ p{
     color: blue;
     font-size: 40px;
 }
+
+.fa-solid.fa-bullhorn{
+    color: blue;
+    font-size: 40px;
+}
+
+.strategic{
+    width: 100%;
+    background-color: #9593e6;
+    margin-top: 50px;
+}
+
+.box-strategic{
+    margin: auto;
+    width: 50%;
+}
+
+.strategic-img1{
+    height: 200px;
+    width: 200px;
+}
+
